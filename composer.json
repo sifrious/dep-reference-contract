@@ -1,0 +1,22 @@
+{
+    "name": "sifrious/reference-contract",
+    "description": "Framework-neutral cross-package reference values and resolution contracts.",
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": "^8.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sifrious\\ReferenceContract\\": "src/"
+        }
+    },
+    "scripts": {
+        "test": "php tests/run.php"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
