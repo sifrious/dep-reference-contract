@@ -1,7 +1,7 @@
 {
     "name": "sifrious/reference-contract",
     "description": "Framework-neutral cross-package reference values and resolution contracts.",
-    "license": "MIT",
+    "license": "proprietary",
     "type": "library",
     "require": {
         "php": "^8.3"
